@@ -3,9 +3,9 @@
 
 ### Планы:
 - [x] Начало разработки мобильного приложения
-- [ ] Windows приложение
-- [ ] Создание плеера (как kodik, aniboom ...)
-- [ ] Сайт
+- [ ] windows desktop
+- [ ] веб & embded плеер (как kodik, aniboom ...)
+- [ ] anixapp.tech (сайт)
 - [ ] IOS & MACOS приложения
 
 ### Contributors
